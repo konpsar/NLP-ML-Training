@@ -1,0 +1,1 @@
+wsl.exe docker run -it --rm -v $(realpath ~/notebooks):/tf/notebooks -p 8888:8888 tensorflow/tensorflow:latest-jupyter 
