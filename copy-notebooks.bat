@@ -1,0 +1,1 @@
+wsl.exe cp -r ~/notebooks/* /mnt/d/Github/NLP-ML-Training/notebooks-copy/  
